@@ -3,7 +3,7 @@ title: "/ideas"
 date: 2025-09-12
 users: ~30 / mėn. naudotojų
 url: https://idejos.dago.lt/
-stack: ["11ty", "Sass", "Markdown", "Obsidian"]
+stack: ["11ty", "Sass", "Markdown"]
 # screens:
 #   - image: ./idejos-1.png
 #     alt: "„/ideas“ puslapis su sąrašu, rodomi numeruoti punktai ir idėjos."
