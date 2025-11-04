@@ -4,12 +4,6 @@ export interface Props {
 }
 
 const { title = "dago / portfolio" } = Astro.props;
-
-// Load NDA list content (editable at src/content/nda/nda.md)
-import { getEntry } from 'astro:content';
-const ndaEntry = await getEntry('nda', 'nda');
-const NDAContent = ndaEntry ? (await ndaEntry.render()).Content : null;
-const ndaTitle = (ndaEntry && ndaEntry.data && ndaEntry.data.title) ? ndaEntry.data.title : '→ O štai čia kiti projektai, kurių negaliu įvardinti dėl NDA ←';
 ---
 
 <!DOCTYPE html>
@@ -37,18 +31,6 @@ const ndaTitle = (ndaEntry && ndaEntry.data && ndaEntry.data.title) ? ndaEntry.d
     <main class="space-y-4">
       <slot />
     </main>
-
-    {/* NDA list section: content comes from src/content/nda/nda.md */}
-    {NDAContent && (
-      <aside class="mt-12">
-        <details>
-          <summary><h2>{ndaTitle}</h2></summary>
-          <main>
-            <NDAContent />
-          </main>
-        </details>
-      </aside>
-    )}
 
     <footer class="mt-12">
       <a href="https://notbyai.fyi" target="_blank" rel="noopener">

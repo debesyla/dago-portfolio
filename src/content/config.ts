@@ -14,18 +14,10 @@ const projects = defineCollection({
       caption: z.string().optional(),
       alt: z.string().optional(),
     })).optional(),
-  }),
-});
-
-// A collection for projects under NDA; content from nda.md
-const nda = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string().optional(),
+    nda: z.boolean().optional(),
   }),
 });
 
 export const collections = {
   projects,
-  nda,
 };
