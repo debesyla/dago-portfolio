@@ -14,4 +14,4 @@ screens:
     alt: "Ocutein el. parduotuvė su prekių katalogu, kvietimais įsigyti"
 ---
 
-Wordpress reprezentacinė svetainė su WooCommerce el. parduotuve. Naudotas [Thrive Architect](https://thrivethemes.com/architect/). Projektas išskirtinis terminu: buvo duotos tik 5 dienos įgyvendinimui.
+Wordpress reprezentacinė svetainė su WooCommerce el. parduotuve. Naudotas [Thrive](https://thrivethemes.com/). Projektas išskirtinis terminu: buvo duotos tik 5 dienos įgyvendinimui.

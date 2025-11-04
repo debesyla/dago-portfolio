@@ -13,4 +13,4 @@ screens:
     alt: "Burokėlių karpačio produktų informacijos puslapis su sudėtimi, laikymo sąlygomis ir apatine svetainės navigacija"
 ---
 
-Wordpress reprezentacinė svetainė su produktų katalogu. Naudotas [Thrive Architect](https://thrivethemes.com/architect/) ir [ACF](https://acf.com/).
+Wordpress reprezentacinė svetainė su produktų katalogu. Naudotas [Thrive](https://thrivethemes.com/) ir [ACF](https://acf.com/).

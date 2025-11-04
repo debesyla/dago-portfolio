@@ -23,7 +23,7 @@ screens:
     alt: "Užsakymo forma su pirkėjo duomenimis, pristatymo būdo pasirinkimu ir apmokėjimo informacija"
 ---
 
-WordPress prekių katalogas su el. parduotuve. Reprezentaciniams puslapiams naudotas [Thrive Architect](https://thrivethemes.com/architect/). 
+WordPress prekių katalogas su el. parduotuve. Reprezentaciniams puslapiams naudotas [Thrive](https://thrivethemes.com/). 
 
 - Integracija su Microsoft Dynamics Axapta (AX) per REST API: sinchronizuotas inventorius, pirkėjų ir užsakymų duomenys.
 - WordPress Multisite: 3 regioniniai katalogai su atskiromis kainomis; vieninga administratoriaus užsakymų valdymo panelė.

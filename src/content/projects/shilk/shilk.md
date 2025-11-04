@@ -17,6 +17,6 @@ screens:
     alt: "SHILK šilumos siurblio rekomendacijų puslapis su galia, kaina ir sistemos sąmata."
 ---
 
-Reprezentacinė svetainė, sukurta naudojant [Thrive Architect](https://thrivethemes.com/architect/). Papildomai, sukurtas custom skaičiuoklės plugin, kuris pagal įvestus parametrus pateikia preliminarią darbų sąmatą vartotojui.  
+Reprezentacinė svetainė, sukurta naudojant [Thrive](https://thrivethemes.com/). Papildomai, sukurtas custom skaičiuoklės plugin, kuris pagal įvestus parametrus pateikia preliminarią darbų sąmatą vartotojui.  
 
 Vartotojui užpildžius formą, duomenys išsiunčiami administratoriui el. paštu. Skaičiavimo logika, tekstai ir rezultatai valdomi per [ACF](https://www.advancedcustomfields.com), todėl svetainės, skaičiuoklės turinys ir formulės gali būti redaguojamos be programuotojo pagalbos.
