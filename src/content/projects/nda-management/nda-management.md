@@ -1,5 +1,5 @@
 ---
-title: "Svetainių priežiūra, naujinimas x43"
+title: "Kiti svetainių atnaujinimai ir priežiūra x43"
 date: 2012-01-01
 stack: ["WordPress", "Drupal", "Laravel"]
 nda: true
