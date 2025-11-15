@@ -19,4 +19,4 @@ screens:
 
 Reprezentacinė svetainė su įgyvendintų projektų portfolio. Suprogramuoti skirtingų tipų custom post types + atsiperkamumo (ROI) skaičiuoklė + interaktyvūs klausimynai.
 
-WordPress pagrindo su [Gutenberg](https://wordpress.org/gutenberg/) custom theme.
+WordPress custom theme su [Gutenberg](https://wordpress.org/gutenberg/).

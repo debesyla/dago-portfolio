@@ -23,4 +23,4 @@ screens:
 
 Valstybinės įstaigos svetainė projektams, naujienoms skelbti, su ypatinga svarba accessibility ir GDPR reikalavimams.
 
-WordPress pagrindo su [Gutenberg](https://wordpress.org/gutenberg/) custom theme.
+WordPress custom theme su [Gutenberg](https://wordpress.org/gutenberg/).

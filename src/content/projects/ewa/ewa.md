@@ -24,4 +24,4 @@ screens:
 
 Reprezentacinė svetainė su prekių katalogais ir finansavimo skaičiuoklėmis: tikėtina paskolos suma, mokėjimų grafiku, galimybe šį išsisaugoti. 
 
-WordPress pagrindo su [Gutenberg](https://wordpress.org/gutenberg/) custom theme.
+WordPress custom theme su [Gutenberg](https://wordpress.org/gutenberg/).

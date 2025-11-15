@@ -15,4 +15,4 @@ screens:
     alt: "Ekrano kopija su ARTimi parduotuvės produktų kategorijų meniu ir įvairių rankų darbo porceliano gaminų, įskaitant krūzus ir puodelius"
 ---
 
-El. parduotuvė porceliano gamintojams su dovanų kuponais. Apmokėjimams naudotas [Paysera](https://www.paysera.lt/). WordPress pagrindo su [Gutenberg](https://wordpress.org/gutenberg/) custom theme.
+El. parduotuvė porceliano gamintojams su dovanų kuponais. Apmokėjimams naudotas [Paysera](https://www.paysera.lt/). WordPress custom theme su [Gutenberg](https://wordpress.org/gutenberg/).
