@@ -14,19 +14,18 @@ const { title = "dago / portfolio" } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
-    
-    <!-- SEO -->
+
     <meta name="description" content="Rodau ką esu sukūręs: Danieliaus IT darbų portfolio. (Tik techniniai darbai ir tik vartotojų naudojami projektai; be AI generuotų demo ir kitos kūrybos, vadybos.)" />
     <meta name="author" content="Dago" />
-    
-    <!-- Open Graph -->
+
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content="Rodau ką esu sukūręs: Danieliaus IT darbų portfolio. (Tik techniniai darbai ir tik vartotojų naudojami projektai; be AI generuotų demo ir kitos kūrybos, vadybos.)" />
     <!-- <meta property="og:image" content="/og-image.jpg" /> -->
+    <meta name="fediverse:creator" content="@dago@river.group.lt">
   </head>
-  
+
   <body>
     <main class="space-y-4">
       <slot />
@@ -34,8 +33,8 @@ const { title = "dago / portfolio" } = Astro.props;
 
     <footer class="mt-12">
       <a href="https://notbyai.fyi" target="_blank" rel="noopener">
-        <img 
-          src="/notbyai.png" 
+        <img
+          src="/notbyai.png"
           srcset="/notbyai.png 1x, /notbyai@2x.png 2x"
           alt="Not by AI"
           width="132"
