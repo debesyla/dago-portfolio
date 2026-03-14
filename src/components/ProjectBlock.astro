@@ -26,7 +26,7 @@ const tags = stack.join(',');
 
 <article class={`project-block space-y-6 relative ${nda ? 'nda-project' : ''}`} data-year={year} data-tags={tags}>
   <span class="timeline-dot" aria-hidden="true"></span>
-  
+
   <header class="space-y-2">
     <h3>
       {nda && (
@@ -38,7 +38,7 @@ const tags = stack.join(',');
             </svg>
           </span>
 
-          <span class="nda-tooltip absolute -top-8 left-0 bg-bg text-primary border-dotted border-1 px-2 py-1 leading-none text-xs whitespace-nowrap transition-opacity-visibility pointer-events-none z-10 mb-1 invisible">NDA projektas, negaliu atskleisti daugiau duomenų</span>
+          <span class="nda-tooltip absolute -top-8 left-0 bg-bg text-primary border-dotted border-1 px-2 py-1 leading-none text-xs whitespace-nowrap transition-opacity-visibility pointer-events-none z-10 mb-1 invisible">NDA projektas, negaliu atskleisti plačiau</span>
         </span>
       )}
 
@@ -51,14 +51,14 @@ const tags = stack.join(',');
         </a>
       )}
     </h3>
-    
+
     <div class="flex gap-x-6 gap-y-3 items-center leading-none text-sm flex-wrap">
       <ul class="stack flex flex-wrap gap-2 list-none p-0">
         {stack.map((t) => (
           <li class="m-0 bg-primary text-bg py-1 px-2">{t}</li>
         ))}
       </ul>
-      
+
       <div class="flex gap-x-6 gap-y-2 flex-wrap">
         <time datetime={date} class="">{formatted}</time>
 
@@ -80,7 +80,7 @@ const tags = stack.join(',');
 
 <style>
   .project-block {
-    padding-left: 1.5rem; 
+    padding-left: 1.5rem;
   }
 
   .nda-badge-wrapper:hover .nda-tooltip {
