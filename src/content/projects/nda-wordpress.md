@@ -5,4 +5,4 @@ stack: ["WordPress"]
 nda: true
 ---
 
-Nuo 2012 iki šiandien. Įvairios kitos smulkesnės svetainės, naudojant WordPress page builderius: [Bricks](https://bricks.com), [Elementor](https://elementor.com), [Thrive](https://thrivethemes.com/), [Beaver Builder](https://www.wpbeaverbuilder.com) ir kitus, pagal klientų pageidavimus.
+Nuo 2012 iki šiandien. Įvairios kitos smulkesnės svetainės, naudojant WordPress page builderius: [Bricks](https://bricksbuilder.io), [Elementor](https://elementor.com), [Thrive](https://thrivethemes.com/), [Beaver Builder](https://www.wpbeaverbuilder.com) ir kitus, pagal klientų pageidavimus.
